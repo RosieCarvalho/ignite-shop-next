@@ -1,3 +1,7 @@
+## Introdução
+
+Site feito em next 13 mas ainda usando a estutura de pages
+
 ## bibliotecas
 
 - estilos
